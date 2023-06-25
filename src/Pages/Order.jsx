@@ -8,7 +8,7 @@ const Order = () => {
     const { id } = useParams();
 
     useEffect(() => {
-        axios.get(`http://localhost:5000/order/${id}`)
+        axios.get(`https://anti-blue-server.vercel.app/order/${id}`)
             .then(data => {
                 setOrders(data.data)
             })
@@ -20,7 +20,7 @@ const Order = () => {
         const delivery=e.target.delivery.value;
         const {name,img,price,description,_id, category}=orders
         const info={method:delivery, name,img,price,description, itemId:_id, category }
-        axios.post('http://localhost:5000/delivery', info )
+        axios.post('https://anti-blue-server.vercel.app/delivery', info )
         .then(data=>{
             console.log(data)
         })

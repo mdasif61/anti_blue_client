@@ -8,7 +8,7 @@ const Home = () => {
     const [product, setProduct] = useState([])
 
     useEffect(() => {
-        axios.get(`http://localhost:5000/delivery/${style}`)
+        axios.get(`https://anti-blue-server.vercel.app/delivery/${style}`)
             .then(data => {
                 setProduct(data.data)
             })

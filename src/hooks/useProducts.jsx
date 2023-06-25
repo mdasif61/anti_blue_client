@@ -4,7 +4,7 @@ const useProducts = () => {
     const {data:products=[], refetch}=useQuery({
         queryKey:['glasses'],
         queryFn:async()=>{
-            const res=await fetch('http://localhost:5000/products')
+            const res=await fetch('https://anti-blue-server.vercel.app/products')
             return res.json()
         }
     })
