@@ -1,0 +1,72 @@
+[
+    {
+      "name": "SpectraShield Anti-Blue Light Glasses",
+      "category": "Gaming/Computer Glasses",
+      "price": 49.99,
+      "description": "Advanced blue light blocking technology for gamers and computer users.",
+      "img": "https://example.com/spectrashield.jpg"
+    },
+    {
+      "name": "LunaBlu Premium Anti-Blue Light Glasses",
+      "category": "Fashion Glasses",
+      "price": 29.99,
+      "description": "Trendy glasses that reduce eye fatigue and improve sleep patterns.",
+      "img": "https://example.com/lunablu.jpg"
+    },
+    {
+      "name": "VisionGuard Blue Light Blocking Glasses",
+      "category": "Reading Glasses",
+      "price": 39.99,
+      "description": "Yellow-tinted lenses for comfortable and enjoyable reading sessions.",
+      "img": "https://example.com/visionguard.jpg"
+    },
+    {
+      "name": "TrueFocus Blue Light Blocking Glasses",
+      "category": "Sleep Glasses",
+      "price": 59.99,
+      "description": "Promotes better sleep by blocking blue light emitted by electronic devices.",
+      "img": "https://example.com/truefocus.jpg"
+    },
+    {
+      "name": "ProSight Anti-Blue Light Gaming Glasses",
+      "category": "Gaming Glasses",
+      "price": 39.99,
+      "description": "Reduces eye strain and enhances visual clarity for gamers.",
+      "img": "https://example.com/prosight.jpg"
+    },
+    {
+      "name": "ZenOptic Blue Blocker Glasses",
+      "category": "Blue Light Blockers",
+      "price": 24.99,
+      "description": "Stylish glasses that block blue light from smartphones, tablets, and computers.",
+      "img": "https://example.com/zenoptic.jpg"
+    },
+    {
+      "name": "FocusFit Blue Light Filtering Glasses",
+      "category": "Fitness Glasses",
+      "price": 34.99,
+      "description": "Filters blue light for fitness enthusiasts using digital screens.",
+      "img": "https://example.com/focusfit.jpg"
+    },
+    {
+      "name": "UltraVision Premium Anti-Blue Light Glasses",
+      "category": "Professional Glasses",
+      "price": 79.99,
+      "description": "Premium glasses for professionals reducing eye strain and promoting comfort.",
+      "img": "https://example.com/ultravision.jpg"
+    },
+    {
+      "name": "SunSafe Blue Light Blocking Sunglasses",
+      "category": "Sunglasses",
+      "price": 49.99,
+      "description": "Provides comprehensive blue light and UV protection with style.",
+      "img": "https://example.com/sunsafe.jpg"
+    },
+    {
+      "name": "ClearEyes Kids' Blue Light Glasses",
+      "category": "Kids' Glasses",
+      "price": 19.99,
+      "description": "Blue light glasses designed for kids to protect their eyes.",
+      "img": "https://example.com/cleareyes.jpg"
+    }
+  ]
